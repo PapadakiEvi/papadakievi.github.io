@@ -1,0 +1,17 @@
+---
+title: "About me"
+resources: resume.pdf
+about:
+  template: jolla
+  image: evipapadaki.jpg
+  links:
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/academic_scribbles/
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/evi-papadaki/
+    - icon: file-text
+      text: resume
+      href: resume.pdf
+---

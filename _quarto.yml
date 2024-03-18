@@ -5,17 +5,18 @@ project:
 website:
   title: "Academic Scribbles"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - aboutme.qmd
       - bibliography.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
+    toc-depth: 2
 
 editor: visual
 
