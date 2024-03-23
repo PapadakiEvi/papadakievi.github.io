@@ -15,37 +15,45 @@ h1 { font-size: 100%; }
 // Import fonts (define mainfont in _quarto.yml)
 /*@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&family=Roboto+Mono:wght@300&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&family=Nunito:wght@300;800&family=Roboto+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cabin+Sketch:wght@400;700&family=Dosis:wght@200..800&family=Grandiflora+One&family=La+Belle+Aurore&family=Reenie+Beanie&display=swap');
 
 // Colors
-$light-sage-green: #c3d2e8;
-$dark-sage-green: #a7bbd9;
-$cream: #FFFFFF;
+$light-blue: #c3d2e8;
+$dark-blue: #768aa7;
+$white: #FFFFFF;
 $dark-gray: #5A5856;
-$gray: #64605f;
-$light-gray: #949799;
-$purple: #9158A2; //#AE8BD1;
+$gray: #333333;
+$light-gray: #64605f;
+$purple: #662542; //#AE8BD1;
 $black: #000000;
-$burnt-orange: #ad7237;
+$burnt-orange: #f4a291;
 
 // Base document colors
-$navbar-bg: $cream;
-$navbar-fg: $dark-sage-green; 
-$navbar-hl: $purple; 
-$body-bg: $light-sage-green;
+$navbar-brand: $dark-blue;
+$navbar-bg: $white;
+$navbar-fg: $black; 
+$navbar-hl: $dark-blue; 
+$body-bg: $light-blue;
 $body-color: $gray;
-$footer-bg: $cream; 
+$footer-bg: $white; 
 $link-color: $purple;
 
 // Inline code
-$code-bg: $cream;
+$code-bg: $white;
 $code-color: $burnt-orange; //$purple; 
 
 // Code blocks
-$code-block-bg: $cream;
+$code-block-bg: $white;
 
 /*-- scss:rules --*/
 
 /* ELEMENT SELECTORS */
+
+.navbar-brand {
+    font-family: 'La Belle Aurore', cursive; /* Using 'cursive' as the fallback font family */
+    font-weight: 50;
+    font-size: 120%; /* Adjusts the size */
+}
 
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
@@ -145,13 +153,13 @@ body {
 // btn styling
 .btn {
   color: $dark-gray;
-  background-color: $cream; //$light-sage-green;
+  background-color: $white; //$light-blue;
   border-color: $dark-gray;
 }
 
 // button hover styling
 .btn:hover {
-  color: $cream;
+  color: $white;
   background-color: $purple;
   border-color: $dark-gray;
 }
@@ -198,13 +206,13 @@ body {
 
 // dropdown navbar text color
 .dropdown-item{
-  color: $dark-sage-green;
-  background-color: $cream;
+  color: $dark-blue;
+  background-color: $white;
 }
 
 // listing card styling
 .card {
-  background-color: $cream;
+  background-color: $white;
   //border-radius: 5.25em;
 }
 
@@ -215,5 +223,5 @@ body {
 
 // about page link button colors 
 div.quarto-about-jolla .about-link {
-  color: $dark-sage-green;
+  color: $dark-blue;
 }
