@@ -3,18 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "Academic Scribbles"
+  title: "Evi Papadaki"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - aboutme.qmd
+     # - href: aboutme.qmd
+     #   text: About me
       - bibliography.qmd
+      - href: resume.pdf
+        text: CV
+        target: _blank
+      - text: get in touch!
+        menu:
+         - icon: instagram
+           text: instagram
+           href: https://www.instagram.com/academic_scribbles/
+           target: _blank
+         - icon: linkedin
+           text: linkedin
+           href: https://www.linkedin.com/in/evi-papadaki/
+           target: _blank
+         - icon: envelope
+           text: email
+           href: mailto:pp949@bath.ac.uk
 
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: 
+     - styles.css
+    mainfont: Nunito
     toc: true
     toc-depth: 2
 

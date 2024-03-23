@@ -1,11 +1,28 @@
 ---
-title: "blog"
+title: ""
+resources: resume.pdf
+engine: knitr
+about:
+  template: jolla
+  image: evipapadaki.jpg
+  links:
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/academic_scribbles/
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/evi-papadaki/
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
 ```
+::: {.justify}
+Hello and welcome to my little nook on the internet! I am Evi (she/her) and I love mathematics and teaching.
+
+I am an early career researcher in Mathematics Education with an interest in mathematics teaching and student support. My research focuses on exploring mathematical discourses. I am particularly interested in patterns of communication during discussions about ideas and practices that go *beyond the mathematics of the moment* (i.e., beyond the curriculum).
+
+Outside of work, I find joy in knitting, sewing, and painting – each with varying levels of success but always with a zest for creating something unique and developing new skills along the way.
+:::
+Have a wander through my website to learn more.

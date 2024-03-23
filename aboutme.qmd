@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: ""
 resources: resume.pdf
 about:
   template: jolla
@@ -11,7 +11,5 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/evi-papadaki/
-    - icon: file-text
-      text: resume
-      href: resume.pdf
+
 ---
