@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Evi Papadaki"
+  favicon: logo.png
   navbar:
     right:
       - href: index.qmd
