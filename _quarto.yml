@@ -12,9 +12,9 @@ website:
      # - href: aboutme.qmd
      #   text: About me
       - bibliography.qmd
-      - href: resume.pdf
-        text: CV
-        target: _blank
+     # - href: resume.pdf
+     #   text: CV
+     #   target: _blank
       - text: get in touch!
         menu:
          - icon: instagram
@@ -30,8 +30,8 @@ website:
            href: mailto:pp949@bath.ac.uk
   page-footer: 
       background: white
-      left: Copyright 2024, Evi Papadaki
-    
+      left: © Evi Papadaki 2024
+
 format:
   html:
     theme: 

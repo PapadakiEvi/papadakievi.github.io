@@ -13,9 +13,9 @@ h1 { font-size: 100%; }
 /*-- scss:defaults --*/
 
 // Import fonts (define mainfont in _quarto.yml)
-/*@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&family=Roboto+Mono:wght@300&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&family=Nunito:wght@300;800&family=Roboto+Mono:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cabin+Sketch:wght@400;700&family=Dosis:wght@200..800&family=Grandiflora+One&family=La+Belle+Aurore&family=Reenie+Beanie&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&family=Nunito:wght@300;800&family=Roboto+Mono:wght@400;700&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&family=Nunito:wght@300;800&family=Roboto+Mono:wght@400;700&Amatic+SC:wght@400;700&family=Cabin+Sketch:wght@400;700&family=Dosis:wght@200..800&family=Grandiflora+One&family=La+Belle+Aurore&family=Reenie+Beanie&display=swap');
 
 // Colors
 $light-blue: #c3d2e8;
@@ -57,7 +57,7 @@ $code-block-bg: $white;
 
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
-  font-weight: 700;
+  font-weight: 500;
   color: $gray;
 }
 
@@ -72,7 +72,7 @@ h3 {
 
 body {
   line-height: 1.5; // min 1.5 suggested for assistive tech
-  font-size: 19.5px;
+  font-size: 19px;
 }
 
 /* ID selectors */
