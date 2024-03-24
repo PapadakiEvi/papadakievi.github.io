@@ -2,19 +2,19 @@
 title: "Publications"
 ---
 
-# Journal articles
+## Journal articles
 
 ::: bib-entry
 Smith, T., & Papadaki, E. (in press) What role does skill centre based consultancy serve in mathematics and statistics teaching communities of practice?. *MSOR Connections*.
 :::
 
-# Doctoral thesis
+## Doctoral thesis
 
 ::: bib-entry
 Papadaki, E. (2023). Beyond the Mathematics of the Moment: Exploring Teacher Discourse at the Mathematical Horizon. \[Doctoral thesis, University of East Anglia\]. <https://ueaeprints.uea.ac.uk/id/eprint/93504/1/2023-Papadaki.P-PhD_Final_Thesis.pdf>
 :::
 
-# Peer-reviewed conference proceedings
+## Peer-reviewed conference proceedings
 
 ::: bib-entry
 Papastathi, C., Kanellos, I., Papadaki, E., Biza, I., & Nardi, E. (2022). Πάρε θεση! Η μαθηματική απόδειξη ως εργαλείο τεκμηρίωσης στην τάξη \[Make up your mind! The mathematical proof as an argumentation instrument in the class\]. *Proceedings of Nineth Conference of the Greek Association of Research in Mathematics Education (Εν.Ε.Δι.Μ. 9)*, Εν.Ε.Δι.Μ.
@@ -44,7 +44,7 @@ Papadaki, E. & Kourouniotis, C. (2017). Η έννοια της γραμμική�
 Kourouniotis, C. & Papadaki, E. (2017). Η εισαγωγή της έννοιας του διανύσματος \[Introducing the concept of vectors\]. Poster session presented at *Seventh Conference of the Greek Association of Research in Mathematics Education* (Εν.Ε.Δι.Μ. 7), Εν.Ε.Δι.Μ.
 :::
 
-# Conference proceedings (other)
+## Conference proceedings (other)
 
 ::: bib-entry
 Nardi, E., Biza, I., Moustapha-Corrêa, B., Papadaki, E., & Thoma, A. (2021). From student scribbles to institutional script: Towards a commognitive research and reform programme for university mathematics education. In R. Marks (Ed.), *Proceedings of the British Society for Research into Learning Mathematics,* 41 (1). British Society for Research into Learning Mathematics. <https://bsrlm.org.uk/publications/proceedings-of-day-conference/ip41-1/>
@@ -58,7 +58,7 @@ Papadaki, E. & Biza, I. (2020). Conceptualising the Discourse at the Mathematica
 Papadaki, E. (2019). Mapping out different discourses of mathematical horizon. *Proceedings of the British Society for Research into Learning Mathematics*, 39 (1). <https://bsrlm.org.uk/wp-content/uploads/2019/07/BSRLM-CP-39-1-07.pdf>
 :::
 
-# Master dissertation
+## Master dissertation
 
 ::: bib-entry
 Papadaki, E. (2017). Design of tasks for the understanding of the concept of Linear Span. \[Master Dissertation, University of Crete\]. <https://elocus.lib.uoc.gr/dlib/6/b/a/metadata-dlib-1512027006-378155-4203.tkl>

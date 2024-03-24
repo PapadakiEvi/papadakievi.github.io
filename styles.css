@@ -10,6 +10,7 @@
 h1 { font-size: 100%; }
 
 
+
 /*-- scss:defaults --*/
 
 // Import fonts (define mainfont in _quarto.yml)
@@ -62,12 +63,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { 
+   font-size: 150%; 
+   
+}
+
+h2 { 
    font-size: 100%; 
+   border-bottom: none;
    
 }
 
 h3 {
   font-size: 35px;
+}
+
+hr {
+    background-color:$white;
+}
+
+hr:not([size]) {
+    height: 1.5px;
 }
 
 body {

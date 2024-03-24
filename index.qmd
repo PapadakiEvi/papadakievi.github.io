@@ -20,7 +20,6 @@ about:
     - icon: instagram
       text: instagram
       href: https://www.instagram.com/academic_scribbles/
-    
 ---
 
 ```{css, echo = FALSE}
@@ -37,10 +36,8 @@ I am an early career researcher in Mathematics Education with an interest in mat
 Have a wander through my website to learn more.
 :::
 
-# Research & Teaching
+## Research & Teaching
 
 My research focuses on exploring mathematical discourses. I am particularly interested in patterns of communication during discussions about ideas and practices that go *beyond the mathematics of the moment* (i.e., beyond the curriculum).
 
-# Education
-
-
+## Education
