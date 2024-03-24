@@ -64,6 +64,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { 
    font-size: 150%; 
+   color: $dark-blue;
+   font-weight: 500;
    
 }
 
@@ -88,6 +90,10 @@ hr:not([size]) {
 body {
   line-height: 1.5; // min 1.5 suggested for assistive tech
   font-size: 19px;
+}
+
+main {
+  text-align: justify;
 }
 
 /* ID selectors */
@@ -115,6 +121,11 @@ body {
   font-size: 20px;
   font-style: italic;
 }*/
+
+//light bold
+.custom-bold {
+   font-weight: 600;
+}
 
 // larger text
 .large-text {
@@ -224,7 +235,12 @@ body {
   color: $dark-blue;
   background-color: $white;
 }
-
+//title banner
+.quarto-title-banner {
+    margin-bottom: 1em;
+    text-decoration-color: $white;
+    background: $white;
+}
 // listing card styling
 .card {
   background-color: $white;

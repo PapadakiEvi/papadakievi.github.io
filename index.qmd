@@ -2,6 +2,8 @@
 title: ""
 resources: resume.pdf
 engine: knitr
+page-layout: full
+title-block-banner: true
 about:
   id: about
   template: trestles
@@ -36,8 +38,18 @@ I am an early career researcher in Mathematics Education with an interest in mat
 Have a wander through my website to learn more.
 :::
 
-## Research & Teaching
+## {{< fa person-chalkboard title="a person infront of a board" >}} Research & Teaching
 
 My research focuses on exploring mathematical discourses. I am particularly interested in patterns of communication during discussions about ideas and practices that go *beyond the mathematics of the moment* (i.e., beyond the curriculum).
 
-## Education
+## {{< fa graduation-cap title="a graduation cap" >}} Education
+
+-   PhD in Mathematics Education, 2023\
+    *University of East Anglia, UK*
+    
+
+-   MSc in Mathematics and its Applications, 2017\
+    *University of Crete, Greece*
+
+-   BSc in Mathematics, 2015\
+    *National and Kapodistrian University of Athens, Greece*

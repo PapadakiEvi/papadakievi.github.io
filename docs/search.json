@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html#research-teaching",
-    "href": "index.html#research-teaching",
-    "title": "Evi Papadaki",
-    "section": "Research & Teaching",
-    "text": "Research & Teaching\nMy research focuses on exploring mathematical discourses. I am particularly interested in patterns of communication during discussions about ideas and practices that go beyond the mathematics of the moment (i.e., beyond the curriculum)."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Evi Papadaki",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
     "objectID": "bibliography.html",
     "href": "bibliography.html",
     "title": "Publications",
@@ -54,5 +40,19 @@
     "title": "Publications",
     "section": "Master dissertation",
     "text": "Master dissertation\n\nPapadaki, E. (2017). Design of tasks for the understanding of the concept of Linear Span. [Master Dissertation, University of Crete]. https://elocus.lib.uoc.gr/dlib/6/b/a/metadata-dlib-1512027006-378155-4203.tkl"
+  },
+  {
+    "objectID": "index.html#fa-person-chalkboard-titlea-person-infront-of-a-board-research-teaching",
+    "href": "index.html#fa-person-chalkboard-titlea-person-infront-of-a-board-research-teaching",
+    "title": "Evi Papadaki",
+    "section": " Research & Teaching",
+    "text": "Research & Teaching\nMy research focuses on exploring mathematical discourses. I am particularly interested in patterns of communication during discussions about ideas and practices that go beyond the mathematics of the moment (i.e., beyond the curriculum)."
+  },
+  {
+    "objectID": "index.html#fa-graduation-cap-titlea-graduation-cap-education",
+    "href": "index.html#fa-graduation-cap-titlea-graduation-cap-education",
+    "title": "Evi Papadaki",
+    "section": " Education",
+    "text": "Education\n\nPhD in Mathematics Education, 2023\nUniversity of East Anglia, UK\nMSc in Mathematics and its Applications, 2017\nUniversity of Crete, Greece\nBSc in Mathematics, 2015\nNational and Kapodistrian University of Athens, Greece"
   }
 ]

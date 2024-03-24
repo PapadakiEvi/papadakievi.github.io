@@ -5,16 +5,19 @@ project:
 website:
   title: "Evi Papadaki"
   favicon: logo.png
+
+  
   navbar:
     right:
       - href: index.qmd
         text: Home
-     # - href: aboutme.qmd
-     #   text: About me
+      - projects.qmd
       - bibliography.qmd
+      - href: blog.qmd
+        text: blog
      # - href: resume.pdf
      #   text: CV
-     #   target: _blank
+        target: _blank
       - text: get in touch!
         menu:
          - icon: instagram
