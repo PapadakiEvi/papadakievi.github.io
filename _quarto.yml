@@ -11,13 +11,13 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      #- projects.qmd
       - bibliography.qmd
-      - href: blog.qmd
-        text: blog
+      #- href: blog.qmd
+      #  text: blog
      # - href: resume.pdf
      #   text: CV
-        target: _blank
+     #   target: _blank
       - text: get in touch!
         menu:
          - icon: instagram
