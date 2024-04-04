@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+subtitle: "organised by publication type"
 page-layout: full
 title-block-banner: true
 ---
@@ -7,7 +8,7 @@ title-block-banner: true
 ## Journal articles
 
 ::: bib-entry
-Smith, T., & Papadaki, E. (in press) What role does skill centre based consultancy serve in mathematics and statistics teaching communities of practice?. *MSOR Connections*.
+Smith, T., & Papadaki, E. (2024) What role does skill centre based consultancy serve in mathematics and statistics teaching communities of practice? *MSOR Connections*, 22(2), 54-60. <https://doi.org/10.21100/msor.v22i2.1475>
 :::
 
 ## Doctoral thesis

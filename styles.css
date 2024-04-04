@@ -237,9 +237,23 @@ main {
 }
 //title banner
 .quarto-title-banner {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    color: $light-gray;
     text-decoration-color: $white;
     background: $white;
+}
+
+.lead {
+    font-size: 12pt;
+    font-weight: 300;
+}
+.quarto-title-banner .quarto-title .title {
+    font-weight: 400;
+}
+
+.nav-footer {
+    font-size: small;
+    margin-top: 0.5em;
 }
 // listing card styling
 .card {

@@ -1,5 +1,62 @@
 ---
 title: "Projects"
+subtitle: "a selection of personal and collaborative projects"
 page-layout: full
 title-block-banner: true
+toc: true
 ---
+
+## Beyond the Mathematics of the Moment
+:::: {.columns}
+
+::: {.column width="28%"}
+![Retrieved from [Cartoonstock](https://www.cartoonstock.com/cartoonview.asp?catref=NL700064)](bemom.jpg){fig-alt="A surprised teacher watching a young student writing on the board 2+2=3.99999."}
+:::
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+My doctoral research focused on exploring the opportunities for discussion beyond the mathematics of the moment (BeMoM, i.e., ideas and practices that are not part of the mathematics curriculum) among secondary school mathematics teachers and their students. Aiming to capture the classroom discourse, I collected data from classroom observations and interviews with teachers and teacher educators. I also proposed and piloted, with a focus group of teachers, design principles for vignette-based professional development activities to support teachers in having BeMoM discussions with their students. My findings highlight the unique communicational patterns that emerge in BeMoM situations, through the lens of the Theory of Commognition. My work contributes to sociocultural theories in Mathematics Education and provides insights into teachers' discourses beyond the mathematics curriculum with an outlook into students’ futures as citizens and professionals.
+:::
+
+::::
+
+## Contextualed NUMBAS questions
+:::: {.columns}
+::: {.column width="70%"}
+write about the project here
+:::
+
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="28%"}
+![screenshot of a [NUMBAS question](https://numbas.mathcentre.ac.uk/question/125558/integration-solving-separable-differential-equations-radioactive-decay/embed/) designed in the context of Natural Sciences](numbas.png){fig-alt="An accessible version of the question depicted in the image can be found here: https://numbas.mathcentre.ac.uk/question/125558/integration-solving-separable-differential-equations-radioactive-decay/embed/"}
+:::
+
+
+::::
+
+
+## The MathTASK project
+
+:::: {.columns}
+
+::: {.column width="28%"}
+![the MathTASK logo](mathtasklogo.png){fig-alt="The MathTASK logo consists of the word 'Math' in grey letters on top of the work 'TASK' capitalised in pink letters. Both words are written in a handwritten font."}
+:::
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+write about the project here
+:::
+
+::::
+
+

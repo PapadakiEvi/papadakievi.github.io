@@ -3,6 +3,7 @@ title: ""
 resources: resume.pdf
 engine: knitr
 page-layout: full
+toc: false
 title-block-banner: true
 about:
   id: about
@@ -52,10 +53,7 @@ The teaching collaborations opened avenues for engaging in practice-based resear
 
 -   PhD in Mathematics Education, 2023\
     *University of East Anglia, UK*
-    
-
 -   MSc in Mathematics and its Applications, 2017\
     *University of Crete, Greece*
-
 -   BSc in Mathematics, 2015\
     *National and Kapodistrian University of Athens, Greece*
