@@ -11,7 +11,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      #- projects.qmd
+      - projects.qmd
       - bibliography.qmd
       #- href: blog.qmd
       #  text: blog

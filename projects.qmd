@@ -10,7 +10,7 @@ toc: true
 :::: {.columns}
 
 ::: {.column width="28%"}
-![Retrieved from [Cartoonstock](https://www.cartoonstock.com/cartoonview.asp?catref=NL700064)](bemom.jpg){fig-alt="A surprised teacher watching a young student writing on the board 2+2=3.99999."}
+![My research interests summarised in a drawing (fictional situation). <br> Credits: Evi Papadaki](bemom.jpg){fig-alt="A surprised teacher watching a young student writing on the board 2+2=3.99999."}
 :::
 ::: {.column width="2%"}
 <!-- empty column to create gap -->
