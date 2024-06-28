@@ -35,7 +35,7 @@ Have a wander through my website to learn more.
 
 ## {{< fa person-chalkboard title="a person infront of a board" >}} Research & Teaching Activities
 
-My teaching and research activities are intertwined – they feed into each other, growing and evolving together. 
+My teaching and research activities are intertwined – they feed into each other, growing and evolving together.
 
 My research focuses on exploring mathematical discourses. My teaching experience sharpened my sensitivity to classroom discursive activities and the role language plays in the learning of mathematics. I am particularly interested in patterns of communication during discussions about ideas and practices that go *beyond the mathematics of the moment* (i.e., beyond the curriculum). I am also interested in how mathematics discourses are transformed into disciplinary discourses during the transition to university.
 
@@ -45,7 +45,7 @@ In my current teaching role, I utilise my expertise in Mathematics Education res
 
 In November, I took up the role of the events secretary for the [sigma Network](https://www.sigma-network.ac.uk/) for excellence in mathematics and statistics support in Higher Education.
 
-The teaching collaborations opened avenues for engaging in practice-based research projects exploring and evaluating novel approaches of facilitating learning. I am also in collaborations with colleagues from the University of Southampton and the University of Seville, Spain in a research project focused on exploring the mathematical and pedagogical discourses of pre-service teachers. Finally, I am a Research Associate for the [MathTASK](https://www.uea.ac.uk/groups-and-centres/a-z/mathtask) project. 
+The teaching collaborations opened avenues for engaging in practice-based research projects exploring and evaluating novel approaches of facilitating learning. I am also in collaborations with colleagues from the University of Southampton and the University of Seville, Spain in a research project focused on exploring the mathematical and pedagogical discourses of pre-service teachers. Finally, I am a Research Associate for the [MathTASK](https://www.uea.ac.uk/groups-and-centres/a-z/mathtask) project.
 
 <!-- Visit the [projects](projects.qmd) tab for more information. -->
 
