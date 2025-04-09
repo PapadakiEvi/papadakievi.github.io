@@ -35,11 +35,11 @@ Have a wander through my website to learn more.
 
 ## {{< fa person-chalkboard title="a person infront of a board" >}} Research & Teaching Activities
 
-My teaching and research activities are intertwined – they feed into each other, growing and evolving together.
+My teaching and research activities are intertwined – they feed into each other, growing and evolving together.My key aim is to challenge risk-averse teaching practices and stereotypes in Mathematics Education. 
 
 My research focuses on mathematical discourses, with a particular interest in how communication unfolds in mathematics classrooms. Teaching has sharpened my awareness of discursive practices and how teachers and learners discuss ideas that go *beyond the mathematics of the moment* (i.e., beyond the curriculum). I am also interested in how mathematics discourses transform into disciplinary discourses during the transition to university.
 
-A key im of my work is to challenge risk-averse teaching practices and stereotypes in Mathematics Education. During my postgraduate studies, I made a deliberate choice to work in mathematics student support, ensuring that I remained grounded in practice. I also gained valuable experiences teaching research methods in education and mathematics education modules.
+During my postgraduate studies, I made a deliberate choice to work in mathematics student support, ensuring that I remained grounded in practice. I also gained valuable experiences teaching research methods in education and mathematics education modules.
 
 In my current roles, I draw on my expertise in Mathematics Education research to support teaching across both higher and secondary education. At the University of Bath, I collaborate with colleagues across disciplines to enhance mathematical and statistical learning, design context-rich teaching materials, and advise undergraduate, Master’s, and PhD students on quantitative research methodologies. Alongside this, I teach A-level Further Mathematics two days a week at a local school, keeping me closely connected to the realities of the classroom and the challenges faced by students and teachers in pre-university education.
 
