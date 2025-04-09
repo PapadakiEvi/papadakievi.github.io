@@ -35,7 +35,7 @@ Have a wander through my website to learn more.
 
 ## {{< fa person-chalkboard title="a person infront of a board" >}} Research & Teaching Activities
 
-My teaching and research activities are intertwined – they feed into each other, growing and evolving together.My key aim is to challenge risk-averse teaching practices and stereotypes in Mathematics Education. 
+My teaching and research activities are intertwined – they feed into each other, growing and evolving together. My key aim is to challenge risk-averse teaching practices and stereotypes in Mathematics Education. 
 
 My research focuses on mathematical discourses, with a particular interest in how communication unfolds in mathematics classrooms. Teaching has sharpened my awareness of discursive practices and how teachers and learners discuss ideas that go *beyond the mathematics of the moment* (i.e., beyond the curriculum). I am also interested in how mathematics discourses transform into disciplinary discourses during the transition to university.
 
