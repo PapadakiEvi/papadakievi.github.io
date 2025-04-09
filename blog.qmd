@@ -1,5 +1,0 @@
----
-title: "Academic Scribbles"
-title-block-banner: true
-page-layout: full
----
