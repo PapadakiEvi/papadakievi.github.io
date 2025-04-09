@@ -28,7 +28,7 @@ about:
 ::: {#about}
 Hello and welcome to my little nook on the internet! I am Evi (she/her) and I love mathematics and teaching.
 
-I am an early career researcher in Mathematics Education with an interest in mathematics teaching and student support. Outside of work, I find joy in knitting, sewing, and painting – each with varying levels of success but always with a zest for creating something unique and developing new skills along the way.
+I am a Mathematics teacher and an early career researcher in Mathematics Education with an interest in mathematics teaching and student support. Outside of work, I find joy in knitting, sewing, and painting – each with varying levels of success but always with a zest for creating something unique and developing new skills along the way.
 
 Have a wander through my website to learn more.
 :::
@@ -37,13 +37,13 @@ Have a wander through my website to learn more.
 
 My teaching and research activities are intertwined – they feed into each other, growing and evolving together.
 
-My research focuses on exploring mathematical discourses. My teaching experience sharpened my sensitivity to classroom discursive activities and the role language plays in the learning of mathematics. I am particularly interested in patterns of communication during discussions about ideas and practices that go *beyond the mathematics of the moment* (i.e., beyond the curriculum). I am also interested in how mathematics discourses are transformed into disciplinary discourses during the transition to university.
+My research focuses on mathematical discourses, with a particular interest in how communication unfolds in mathematics classrooms. Teaching has sharpened my awareness of discursive practices and how teachers and learners discuss ideas that go *beyond the mathematics of the moment* (i.e., beyond the curriculum). I am also interested in how mathematics discourses transform into disciplinary discourses during the transition to university.
 
-My move into academia emerged with a view to challenge risk avert teaching practices and stereotypes in Mathematics Education. I made a deliberate choice to work in mathematics student support alongside my postgraduate studies, ensuring that I remained grounded in practice. I also gained valuable experiences teaching research methods in education and mathematics education modules.
+A key im of my work is to challenge risk-averse teaching practices and stereotypes in Mathematics Education. During my postgraduate studies, I made a deliberate choice to work in mathematics student support, ensuring that I remained grounded in practice. I also gained valuable experiences teaching research methods in education and mathematics education modules.
 
-In my current teaching role, I utilise my expertise in Mathematics Education research in interdisciplinary collaborations to support the teaching of mathematics and statistics across the University of Bath. I also design teaching and learning materials, covering a variety of mathematics topics contextualised with discipline specific examples and I advise BA, Master, and PhD students on quantitative methodologies.
+In my current roles, I draw on my expertise in Mathematics Education research to support teaching across both higher and secondary education. At the University of Bath, I collaborate with colleagues across disciplines to enhance mathematical and statistical learning, design context-rich teaching materials, and advise undergraduate, Master’s, and PhD students on quantitative research methodologies. Alongside this, I teach A-level Further Mathematics two days a week at a local school, keeping me closely connected to the realities of the classroom and the challenges faced by students and teachers in pre-university education.
 
-In November, I took up the role of the events secretary for the [sigma Network](https://www.sigma-network.ac.uk/) for excellence in mathematics and statistics support in Higher Education.
+Since November 2023, I serve as the events secretary for the [sigma Network](https://www.sigma-network.ac.uk/) for Excellence in Mathematics and Statistics Support in Higher Education – a national community that promotes inclusive, evidence-informed practice and fosters collaboration among those supporting mathematical learning across the sector.
 
 The teaching collaborations opened avenues for engaging in practice-based research projects exploring and evaluating novel approaches of facilitating learning. I am also in collaborations with colleagues from the University of Southampton and the University of Seville, Spain in a research project focused on exploring the mathematical and pedagogical discourses of pre-service teachers. Finally, I am a Research Associate for the [MathTASK](https://www.uea.ac.uk/groups-and-centres/a-z/mathtask) project.
 
