@@ -3,6 +3,7 @@ title: "The question that made me look beyond the mathematics of the moment"
 page-layout: article
 title-block-banner: True
 toc: false
+include-after-body: ../../giscus-mode.html
 author: "Evi Papadaki"
 date: "04/10/2025"
 image: "bemom.jpg"
@@ -10,7 +11,6 @@ draft: false
 categories: [Reflections]
 bibliography: my_references.bib
 link-citations: true
-include-after-body: giscus-mode-toggle.html
 ---
 
 I still remember a seminar during my final year as an undergraduate mathematics student. We were exploring different representations used to teach fractions in school, when our lecturer posed a simple but puzzling question: *"How do fractions, as taught in school, link with mathematical ideas you've learnt during your undergraduate studies?"*

@@ -12,5 +12,4 @@ listing:
   sort-ui: true
   filter-ui: false
   feed: true
-include-after-body: giscus-mode-toggle.html
 ---

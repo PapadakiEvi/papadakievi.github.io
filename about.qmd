@@ -4,6 +4,7 @@ resources: resume.pdf
 engine: knitr
 page-layout: full
 toc: false
+comments: false
 title-block-banner: true
 about:
   id: about
