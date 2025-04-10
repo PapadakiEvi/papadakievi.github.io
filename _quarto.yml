@@ -3,14 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Evi Papadaki"
+  title: ""
   favicon: logo.png
+  site-url: https://papadakievi.github.io/
+  description: "Beyond the mathematics of the moment"
 
-  
   navbar:
     right:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About me
       - projects.qmd
       - bibliography.qmd
       #- href: blog.qmd
@@ -18,7 +21,7 @@ website:
      # - href: resume.pdf
      #   text: CV
      #   target: _blank
-      - text: get in touch!
+      - text: Get in touch!
         menu:
          - icon: instagram
            text: instagram
@@ -31,6 +34,12 @@ website:
          - icon: envelope
            text: email
            href: mailto:pp949@bath.ac.uk
+    logo: title.png
+    logo-alt: "beyond the mathematics of the moment by Evi Papadaki" 
+    logo-href: index.qmd
+    comments:
+    giscus:
+      repo: PapadakiEvi/papadakievi.github.io
   page-footer: 
       background: white
       left: © Evi Papadaki 2024

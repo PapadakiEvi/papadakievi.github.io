@@ -6,6 +6,13 @@
   margin-bottom: 1em; /* Space between entries */
 }
 
+.navbar-logo {
+  height: 60px !important;
+  width: 400px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
 
 h1 { font-size: 100%; }
 
@@ -108,6 +115,9 @@ main {
   color: $gray;
   font-style: italic;
 }
+.blockquote {
+    color: #333333;
+}
 
 /* CLASS SELECTORS (self-defined) */
 
@@ -168,7 +178,7 @@ main {
 
 // gray background
 .quote-text-bg {
-  background-color: rgba(152, 160, 141, 0.3); //rgba(166, 164, 161, 0.4);
+  background-color: $gray;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
