@@ -7,10 +7,9 @@
 }
 
 .navbar-logo {
-  height: 60px !important;
-  width: 400px !important;
-  max-width: unset !important;
-  max-height: unset !important;
+  height: auto !important;
+  width: 100% !important;
+
 }
 
 
