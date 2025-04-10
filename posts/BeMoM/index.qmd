@@ -10,26 +10,26 @@ draft: false
 categories: [Reflections]
 bibliography: my_references.bib
 link-citations: true
+include-after-body: giscus-mode-toggle.html
 ---
-I still remember a seminar during my final year as an undergraduate mathematics student. We were exploring different representations used to teach fractions in school, when our lecturer posed a simple but puzzling question:
-*"How do fractions, as taught in school, link with mathematical ideas you've learnt during your undergraduate studies?"*
+
+I still remember a seminar during my final year as an undergraduate mathematics student. We were exploring different representations used to teach fractions in school, when our lecturer posed a simple but puzzling question: *"How do fractions, as taught in school, link with mathematical ideas you've learnt during your undergraduate studies?"*
 
 The room went quiet for what felt like ages. Then someone mentioned *equivalence classes*—and something changed for me. It was my very own ‘aha’ moment. Looking back, I began to recognise more connections between the mathematical topics I had encountered over the years. I realised that some of my teachers had been gently pointing at those connections, even if I couldn’t grasp them at the time. Their words stayed with me, waiting for the right moment to develop new meanings.
 
 That moment shaped my identity as a mathematics teacher and researcher. Since then, I’ve come to appreciate that mathematics taught in school can connect to so much more than what the curriculum prescribes—if we’re willing to deviate from simply enacting guidelines and make space for explorative discussions.
 
-*Beyond the mathematics of the moment*, is a space where I bring together my teaching practice and my research interests in meaningful, practical ways. 
-The name is inspired a description in @Ball2009:
+*Beyond the mathematics of the moment*, is a space where I bring together my teaching practice and my research interests in meaningful, practical ways. The name is inspired a description in @Ball2009:
 
->[...] those aspects of the mathematics that, while perhaps not contained in the curriculum, are nonetheless useful to pupils’ present learning, that illuminate and confer a comprehensible sense of the larger significance of what may be only partially revealed in *the mathematics of the moment* [my emphasis] (para. 17).
+> \[...\] those aspects of the mathematics that, while perhaps not contained in the curriculum, are nonetheless useful to pupils’ present learning, that illuminate and confer a comprehensible sense of the larger significance of what may be only partially revealed in *the mathematics of the moment* \[my emphasis\] (para. 17).
 
 I’ll be sharing:
 
-* Share classroom activities and teaching practices that have sparked curiosity beyond standard curricula.
+-   Share classroom activities and teaching practices that have sparked curiosity beyond standard curricula.
 
-* Discuss resources that have been instrumental in bridging theoretical concepts with practical applications.
+-   Discuss resources that have been instrumental in bridging theoretical concepts with practical applications.
 
-* Reflect on conversations and experiences with students and colleagues that have enriched my understanding of mathematics education.
+-   Reflect on conversations and experiences with students and colleagues that have enriched my understanding of mathematics education.
 
 The blog documents my efforts to bring together teaching practice and my research interests in meaningful, practical ways.<!--Through a series posts, I hope to inspire and encourage more colleagues to go beyond the mathematics of the moment, while exploring how theory informs my practice—and how my experiences from the classroom, in turn, enrich my research.-->
 
