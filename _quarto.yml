@@ -38,8 +38,8 @@ website:
     logo-alt: "beyond the mathematics of the moment by Evi Papadaki" 
     logo-href: index.qmd
     comments:
-    giscus:
-      repo: PapadakiEvi/papadakievi.github.io
+      giscus:
+        repo: PapadakiEvi/papadakievi.github.io
   page-footer: 
       background: white
       left: © Evi Papadaki 2024
