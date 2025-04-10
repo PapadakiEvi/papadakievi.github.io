@@ -9,7 +9,8 @@ date: "04/10/2025"
 image: "bemom.jpg"
 draft: false
 categories: [Reflections]
-bibliography: my_references.bib
+bibliography: ../../my_references.bib
+csl: ../../apa.csl
 link-citations: true
 ---
 
