@@ -36,7 +36,6 @@ website:
            href: mailto:pp949@bath.ac.uk
     logo: title.png
     logo-alt: "beyond the mathematics of the moment by Evi Papadaki" 
-    logo-href: index.qmd
     comments:
       giscus:
         repo: PapadakiEvi/papadakievi.github.io
