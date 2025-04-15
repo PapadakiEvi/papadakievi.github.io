@@ -18,10 +18,9 @@ Do you have a task you absolutely love? One that you can’t wait to try again w
 
 For me, that task is The Magic Carpet Ride [@Wawro2012]. Originally designed as an explorative introduction to Linear Algebra for college students in the US, it’s one of the most memorable tasks I encountered as a young researcher. You can download a free pre-print of @Wawro2012's article [here](https://www.researchgate.net/publication/263306277_An_Inquiry-Oriented_Approach_to_Span_and_Linear_Independence_The_Case_of_the_Magic_Carpet_Ride_Sequence).
 
-Technically, the task is aimed at students enrolled in a university-level Linear Algebra course. My 16-year-olds aren’t expected to formally learn about like vector spaces, linear combinations, or linear span for another couple of years. But the blend of storytelling and mathematical depth makes me feel this is always a perfect opportunity to venture beyond the mathematics of the moment.
+Technically, the task is aimed at students enrolled in a university-level Linear Algebra course. My 16-year-olds aren’t expected to learn about vector spaces, linear combinations, or linear span for another couple of years. But the blend of storytelling and mathematical depth makes me feel this is always a perfect opportunity to venture beyond the mathematics of the moment.
 
 So here it is — my all-time favourite task.
-Do you have a task you love? One that you can't wait to try it with a new class?
 
 ::::::::: {.callout-note icon="false"}
 ## The Magic Carpet Ride [^1]
@@ -60,7 +59,7 @@ Investigate whether or not you can use the hover board and the magic carpet to g
 
 Are there some locations that he can hide and you cannot reach him with these two modes of transportation? Describe the places that you can reach using a combination of the hover board and the magic carpet and those you cannot. Specify these geometrically and algebraically. Include symbolic representations using vector notation. Also, include a convincing argument supporting your answer.
 
-[^1]: Wawro, M., Zandieh, M., Rasmussen, C., & Andrews-Larson, C. (2013). Inquiry oriented linear algebra: Course materials. Available at [](http://iola.math.vt.edu). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+[^1]: Wawro, M., Zandieh, M., Rasmussen, C., & Andrews-Larson, C. (2013). Inquiry oriented linear algebra: Course materials. Available at [http://iola.math.vt.edu](http://iola.math.vt.edu). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 :::::::::
 
 I was pleased to see that my students really liked it  - even the more skeptical among them. So, once we’d explored the two-dimensional version thoroughly, I couldn’t resist going a step further.
