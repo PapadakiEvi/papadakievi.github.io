@@ -1,0 +1,82 @@
+---
+title: "The magic carpet ride"
+page-layout: article
+title-block-banner: True
+toc: false
+include-after-body: ../../giscus-mode.html
+author: "Evi Papadaki"
+date: "04/14/2025"
+image: "magicCarpet.png"
+draft: false
+categories: [Activities, Resources, Vectors]
+bibliography: ../../my_references.bib
+csl: ../../apa.csl
+link-citations: true
+---
+
+Do you have a task you absolutely love? One that you can’t wait to try again with a new class?
+
+For me, that task is The Magic Carpet Ride [@Wawro2012]. Originally designed as an explorative introduction to Linear Algebra for college students in the US, it’s one of the most memorable tasks I encountered as a young researcher. You can download a free pre-print of @Wawro2012's article [here](https://www.researchgate.net/publication/263306277_An_Inquiry-Oriented_Approach_to_Span_and_Linear_Independence_The_Case_of_the_Magic_Carpet_Ride_Sequence).
+
+Technically, the task is aimed at students enrolled in a university-level Linear Algebra course. My 16-year-olds aren’t expected to formally learn about like vector spaces, linear combinations, or linear span for another couple of years. But the blend of storytelling and mathematical depth makes me feel this is always a perfect opportunity to venture beyond the mathematics of the moment.
+
+So here it is — my all-time favourite task.
+Do you have a task you love? One that you can't wait to try it with a new class?
+
+::::::::: {.callout-note icon="false"}
+## The Magic Carpet Ride [^1]
+
+You are a young traveler, leaving home for the first time. Your parents want to help you on your journey, so hust before your departure, they give you two gifts. Specifically, they give you two forms of transportation: a hover board and a magic carpet. Your parents inform you that both the hover board and the magic carpet have restrictions in how they operate:
+
+::::: columns
+::: {.column width="10%"}
+![](hoverBoard.png){fig-alt="An AI generated drawing of a hover bord."}
+:::
+
+::: {.column width="90%"}
+We denote the restriction on the hover board's movement by the vector $\begin{pmatrix} 3 \\ 1 \end{pmatrix}$.
+
+By this we mean that if the hover board traveled "forward" for one hour, it would move along a 'diagonal' path that would result in a displacement of 3 miles East and 1 mile North of its starting location.
+:::
+:::::
+
+::::: columns
+::: {.column width="10%"}
+![](magicCarpet.png){fig-alt="An AI generated drawing of a magic carpet."}
+:::
+
+::: {.column width="90%"}
+We denote the restriction on the magic carpet's movement by the vector $\begin{pmatrix} 1 \\ 2 \end{pmatrix}$.
+
+By this we mean that if the magic carpet traveled "forward" for one hour, it would move along a 'diagonal' path that would result in a displacement of 1 miles East and 2 mile North of its starting location.
+:::
+:::::
+
+**Problem 1: The maiden Voyage** Your uncle Cramer suggests that your first adventure should be to go and visit the wise man, Old Man Gauss. Cramer tells you that Old Man Gauss lives in a cabin ths is 107 miles East and 64 miles North of your home.
+
+Investigate whether or not you can use the hover board and the magic carpet to get to Gauss's cabin. If so, how? If it is not possible to get to the cabin with these modes of transportation, why is that the case? Use the vector notation for each mode of transportation as part of your explanation. Use a diagram or graphic to help illustrate your point(s).
+
+**Problem 2: Hide-and-Seek** Old Man Gauss wants to move to a cabin in a different location. You are not sure whether Gauss is just trying to test your wits at finding him or if he actually wants to hide somewhere that you can't visit him.
+
+Are there some locations that he can hide and you cannot reach him with these two modes of transportation? Describe the places that you can reach using a combination of the hover board and the magic carpet and those you cannot. Specify these geometrically and algebraically. Include symbolic representations using vector notation. Also, include a convincing argument supporting your answer.
+
+[^1]: Wawro, M., Zandieh, M., Rasmussen, C., & Andrews-Larson, C. (2013). Inquiry oriented linear algebra: Course materials. Available at [](http://iola.math.vt.edu). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+:::::::::
+
+I was pleased to see that my students really liked it  - even the more skeptical among them. So, once we’d explored the two-dimensional version thoroughly, I couldn’t resist going a step further.
+
+We moved into three dimensions.
+
+I gave them two new vectors, $\begin{pmatrix} 1 , 3 , 2 \end{pmatrix}$ and $\begin{pmatrix} 1 , 2 , 0 \end{pmatrix}$, and asked whether they would be able to find Old Man Gauss hidden cabin. 
+
+Then, I've introduced a new mean of transport, $\begin{pmatrix} 0 , 0 , 1 \end{pmatrix}$, which I called the elevator for obvious reasons. 
+
+With just a few minutes left in the lesson, I decided to go all the way.
+“What if,” I asked, “your third vehicle isn’t an elevator but a magic bus that travels like this: $\begin{pmatrix} 2 , 5 , 2 \end{pmatrix}$?”
+
+They realised very quickly that the magic bus the sum of the hover board and the magic carpet. So perhaps next time, *I will have to use a more elaborate linear combination*.
+
+I really enjoyed doing this task with my student. It gave us the opportunity to discuss important ideas in Linear Algebra that are not taught as part of the A-Level content. I also liked that I got the opportunity to tell them that this the key idea behind graphics in computer games (I saw some of my students eyes shine for the very first time at that moment).
+
+This task brought us into rich conversations that aren’t part of the A-Level syllabus — yet are fundamental to understanding Linear Algebra later on. Best of all, it gave me the chance to connect maths to something they like: video games.
+When I mentioned that this kind of mathematics is the key idea behind graphics in video games, I saw a few pairs of eyes light up.
