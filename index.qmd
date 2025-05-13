@@ -1,6 +1,6 @@
 ---
-title: "The blog"
-subtitle: "Welcome to my little nook on the internet!"
+title: "Beyond the Mathematics of the Moment"
+subtitle: "The blog"
 page-layout: full
 title-block-banner: true
 listing:
